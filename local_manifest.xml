@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="red516812/Superuser" path="external/red516812/Superuser" remote="github" revision="master" />
-  <project name="red516812/Widgets" path="external/red516812/Widgets" remote="github" revision="master" />
+  <project name="red516812/system-as-root" path="external/red516812/system-as-root" remote="github" revision="master" />
+  <project name="red516812/widgets" path="external/red516812/widgets" remote="github" revision="master" />
 </manifest>
